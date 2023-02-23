@@ -1,6 +1,6 @@
 # Challenge-2 Professional Portfolio
 
-Description
+## Description
 This Professional Portfolio application is to allow myself to add applications as I work through the bootcamp course. This particular challenge focuses on developing skills in both html and CSS. Further projects to be added to this portfolio page will next focus on JavaScript.
 
 ##Learning objectives
