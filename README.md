@@ -3,7 +3,7 @@
 ## Description
 This Professional Portfolio application is to allow myself to add applications as I work through the bootcamp course. This particular challenge focuses on developing skills in both html and CSS. Further projects to be added to this portfolio page will next focus on JavaScript.
 
-##Learning objectives
+Learning objectives
 
 The key focus for this challenge is in learning how to structure a page using HTML and also to develop skills in CSS to create an Application that is both formatted well and visually attractive.
 This Web Application requires development from the ground up as no starter code was provided. Further skills such as responsiveness to various devices, navigation to link to other features in the page and scrolling were used.
